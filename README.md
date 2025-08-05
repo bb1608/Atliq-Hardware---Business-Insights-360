@@ -11,4 +11,4 @@ Data Modelling: o Relationships between different tables were established to cre
 Visualization: o Various visualizations were created to provide different feature views. o These visualizations help in drawing useful insights from the data. Key Features of the Power BI Report 🔹 Sales: • Review customer performance with metrics like Net Sales and Gross Margin. 🔹 Finance: • View detailed Profit & Loss statements for any customer, product, or country. 🔹 Marketing: • Monitor product performance using Net Sales and Gross Margin. • See these metrics in a profitability/growth matrix. 🔹 Supply Chain: • Assess forecast accuracy, net error, and risk profiles for products, segments, and customers. 🔹 Executive: • Get high-level insights by integrating data from all business areas.
 Links & Screenshots:
 Project Link : https://app.powerbi.com/links/pCcbuYL7OT?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
-Screenshot : Screenshot 2025-08-04 212025.png
+Screenshot : [Screenshot 2025-08-04 212025.png](https://github.com/bb1608/Atliq-Hardware---Business-Insights-360/blob/main/Screenshot%202025-08-04%20212025.png)
